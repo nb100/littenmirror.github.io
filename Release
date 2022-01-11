@@ -1,0 +1,8 @@
+Origin:schneelittechen-mirror.github.io
+Label:Litten
+Suite: stable
+Version: 1.0
+Codename:Litten mirror repo
+Architectures: iphoneos-arm
+Components: main
+Description:Litten mirror repository
